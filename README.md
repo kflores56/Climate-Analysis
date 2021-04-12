@@ -1,4 +1,4 @@
-# SQLAlchemy Challenge
+# Climate Analysis
 
 In preparation for a long holiday in Honolulu, Hawaii, I have decided to do some climate analysis on the area. 
 
